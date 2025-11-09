@@ -58,6 +58,15 @@ Model Graph
 
 ![WhatsApp Image 2025-11-09 at 18 49 16_5a676294](https://github.com/user-attachments/assets/bb7e6753-9733-46e0-bea7-b0bed49026e8)
 
+Simulation
+
+Line Regulation
+
+<img width="632" height="356" alt="image" src="https://github.com/user-attachments/assets/8a052ce0-836e-428e-b9c5-2bcf9ea2eb54" />
+
+Load Regulation
+
+<img width="708" height="326" alt="image" src="https://github.com/user-attachments/assets/e90537bc-2eaa-4b87-8c8e-6dcd4e0ee401" />
 
 
 PRECAUTIONS:
